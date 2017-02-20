@@ -1,0 +1,12 @@
+package:
+  name: con_pathways
+  version: 1
+
+build:
+  number: 1
+
+requirements:
+  run:
+    - python
+about:
+  summary: first meta package
